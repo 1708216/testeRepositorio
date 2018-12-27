@@ -7,4 +7,5 @@ QUEIJO
 LEITE
 BANANA
 UVA
+coca-cola
 
